@@ -31,6 +31,8 @@ ffmpeg.org for Win32 binary download and install
 
 in win-reocat/bin please read instruction how to download and put ffmpeg exe files in to this folder. You can also edit line 13 of reocat.bat for other folder path.
 
+Tip: **Avidemuxer** is my personal favorite video editor for trimming generated mp4 quickly on Win. Howto format SD card bigger than 32G on Windows https://www.howtogeek.com/316977/how-to-format-usb-drives-larger-than-32gb-with-fat32-on-windows/
+
 **Android:** *You have to copy recording date folder to internal storage before processing
 
 **Experimental: Now you can quickly trim video with Android without PC**
